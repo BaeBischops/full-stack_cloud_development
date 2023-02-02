@@ -1,1 +1,1 @@
-# full_stack_cloud_development
+# Full-Stack Cloud Development Capstone Project
